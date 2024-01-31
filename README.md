@@ -7,8 +7,9 @@ Driver Used: Google Chrome
 
 <h3> Test Scenario: Validate the functionality of the login page. </h3>
 
-<h3> Test Cases for Login Page: 
- <br> Non-Functional </h3>
+<h3> Test Cases for Login Page: <br>
+ Non-Functional:
+</h3>
 <br>
 
 | Test Case ID | Priority | Description | Actual Result | Expected Result | Status (Pass/Fail) |
@@ -21,7 +22,7 @@ Driver Used: Google Chrome
 | TC_06 | P1|  Verify that the application’s UI is responsive i.e. it should adjust to different screen resolutions and devices. | Application's UI should be responsive. | Application's UI is responsive. | Pass |
 | TC_07 | P1 | Verify that the size, color, and UI of the different elements are as per the specifications. | Size, color, and UI of the different elements should be as per the specifications. | Size, color, and UI of the different elements are as per the specifications. | Pass |
 
-<h3> Functional </h3>
+<h3> Functional: </h3>
 
 | Test Case                             |                                    
 | -------------------------------------- |
