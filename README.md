@@ -26,10 +26,12 @@ NOTE: The test cases for the login page can be different as per the website used
   To use different browsers like Firefox and Edge use their respective drivers:
 </h4>
   Firefox: 
+  <br>
   System.setProperty("webdriver.gecko.diver","PATH";
   WebDriver driver=new FirefoxDriver();
- 
+  <br>
   Edge:
+  <br>
   System.setPropery("webdriver.edge.driver","PATH");
   WebDriver driver=new EdgeDriver();
  
