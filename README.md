@@ -22,6 +22,24 @@ Driver Used: Google Chrome
 
 <h3> Test Cases for Login Page: Functional </h3>
 
+| Test Case                             |                                    
+| -------------------------------------- |
+1. Verify if the valid username and password combination successfully logs the user in.
+2. Verify that the user is able to navigate or access the different controls by pressing the ‘Tab’ key on the keyboard.
+3. Check if the password is in masked form when typed in the password field.
+4. Check if the password can be copy-pasted or not.
+5. Check that the user is not able to log in with an invalid username and password.
+6. Verify that the validation message gets displayed in case the user leaves the username or password field blank.
+7. Check that the validation message is displayed in case the user exceeds the character limit of the user name and password fields.
+8. Successful login with the "Remember Me" option selected.
+9. Testing login with a username that includes special characters (e.g., @, #, $).
+10. Entering an incorrect password for a valid username.
+11. Entering an incorrect username for a valid password.
+12. Entering an empty username field.
+13. Entering an empty password field.
+14. Verify the ‘Forgot Password’ functionality.
+15. Verify the login page by pressing the ‘Back button’ of the browser. It should not allow you to enter into the system once you log out.
+
 
 
 NOTE: The test cases for the login page can be different as per the website used.
