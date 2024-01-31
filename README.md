@@ -45,18 +45,18 @@ Driver Used: Google Chrome
 NOTE: The test cases for the login page can be different as per the website used.
 
 <h4> 
-  To use different browsers like Firefox and Edge use their respective drivers:
+ FYI: To use different browsers like Firefox and Edge use their respective drivers:
 </h4>
-  Firefox: 
+        Firefox: 
+        <br>
+        System.setProperty("webdriver.gecko.diver","PATH";
   <br>
-  System.setProperty("webdriver.gecko.diver","PATH";
+        WebDriver driver=new FirefoxDriver();
   <br>
-  WebDriver driver=new FirefoxDriver();
+        Edge:
   <br>
-  Edge:
-  <br>
-  System.setPropery("webdriver.edge.driver","PATH"); <br>
-  WebDriver driver=new EdgeDriver();
+       System.setPropery("webdriver.edge.driver","PATH"); <br>
+       WebDriver driver=new EdgeDriver();
  
 
 
