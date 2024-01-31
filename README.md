@@ -7,5 +7,7 @@ Driver Used: Google Chrome
 
 <h3> Test Scenario: Validate the functionality of the login page. </h3>
 
-<h3> Test Cases for Login Page </h3>
+<h3> Test Cases for Login Page : Non-Functional </h3>
+<br>
+
 
