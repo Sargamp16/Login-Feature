@@ -20,6 +20,10 @@ Driver Used: Google Chrome
 | TC_06 | P1|  Verify that the application’s UI is responsive i.e. it should adjust to different screen resolutions and devices. | Application's UI should be responsive. | Application's UI is responsive. | Pass |
 | TC_07 | P1 | Verify that the size, color, and UI of the different elements are as per the specifications. | Size, color, and UI of the different elements should be as per the specifications. | Size, color, and UI of the different elements are as per the specifications. | Pass |
 
+<h3> Test Cases for Login Page: Functional </h3>
+
+
+
 NOTE: The test cases for the login page can be different as per the website used.
 
 <h4> 
@@ -28,11 +32,12 @@ NOTE: The test cases for the login page can be different as per the website used
   Firefox: 
   <br>
   System.setProperty("webdriver.gecko.diver","PATH";
+  <br>
   WebDriver driver=new FirefoxDriver();
   <br>
   Edge:
   <br>
-  System.setPropery("webdriver.edge.driver","PATH");
+  System.setPropery("webdriver.edge.driver","PATH"); <br>
   WebDriver driver=new EdgeDriver();
  
 
